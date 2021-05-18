@@ -8,6 +8,7 @@
 ![SCSS](https://img.shields.io/badge/-scss-1C1C1C?style=for-the-badge&logo=sass)
 ![VScode](https://img.shields.io/badge/-vscode-1C1C1C?style=for-the-badge&logo=visual-studio-code)
 
+You can also see my portfolio <a href="https://nikita9950.github.io/liubimov-portfolio/">here</a>
 
 Follow Me
 
