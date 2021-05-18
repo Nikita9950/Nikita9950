@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm frontend developer
 
 
-### Tech skills
+###TECH SKILLS
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1C1C1C?style=for-the-badge&logo=javascript)
 ![Html](https://img.shields.io/badge/-html-1C1C1C?style=for-the-badge&logo=html)
 ![CSS](https://img.shields.io/badge/-css-1C1C1C?style=for-the-badge&logo=css)
 ![SCSS](https://img.shields.io/badge/-scss-1C1C1C?style=for-the-badge&logo=scss)
-![VScode](https://img.shields.io/badge/-vscode-1C1C1C?style=for-the-badge&logo=vscode)
+![VScode](https://img.shields.io/badge/-vscode-1C1C1C?style=for-the-badge&logo=visual-studio-code)
 
 
 Follow Me
