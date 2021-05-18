@@ -10,8 +10,7 @@
 
 You can also see my portfolio <a href="https://nikita9950.github.io/liubimov-portfolio/">here</a>
 
-Follow Me
-<a href="https://www.linkedin.com/in/nikita-liubimov-77b3441b2/">![linkedin](https://img.shields.io/badge/-liubimov-1C1C1C?style=for-the-badge&logo=linkedin)</a>
+<a href="https://www.linkedin.com/in/nikita-liubimov-77b3441b2/">![linkedin](https://img.shields.io/badge/-liubimov-1C1C1C?style=flat&logo=linkedin)</a>
 
 <!--
 **Nikita9950/Nikita9950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
