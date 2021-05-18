@@ -2,6 +2,8 @@
 
 
 TECH SKILLS
+![JavaScript](https://img.shields.io/badge/-JavaScript-red?style=for-the-badge&logo=javascript)
+
 
 Follow Me
 
