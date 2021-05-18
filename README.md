@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm frontend developer
+
+
+TECH SKILLS
+
+Follow Me
 
 <!--
 **Nikita9950/Nikita9950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
