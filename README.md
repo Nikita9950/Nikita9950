@@ -4,8 +4,8 @@
 ### TECH SKILLS
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1C1C1C?style=for-the-badge&logo=javascript)
 ![Html](https://img.shields.io/badge/-html-1C1C1C?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-css-1C1C1C?style=for-the-badge&logo=css)
-![SCSS](https://img.shields.io/badge/-scss-1C1C1C?style=for-the-badge&logo=scss)
+![CSS](https://img.shields.io/badge/-css-1C1C1C?style=for-the-badge&logo=css3)
+![SCSS](https://img.shields.io/badge/-scss-1C1C1C?style=for-the-badge&logo=sass)
 ![VScode](https://img.shields.io/badge/-vscode-1C1C1C?style=for-the-badge&logo=visual-studio-code)
 
 
