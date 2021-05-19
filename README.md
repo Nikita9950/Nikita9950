@@ -4,9 +4,9 @@
 ### TECH SKILLS
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1C1C1C?style=for-the-badge&logo=javascript)
 ![Html](https://img.shields.io/badge/-html-1C1C1C?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-css-1C1C1C?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/-css-1C1C1C?style=for-the-badge&logo=css3&logoColor=264de4)
 ![SCSS](https://img.shields.io/badge/-scss-1C1C1C?style=for-the-badge&logo=sass)
-![VScode](https://img.shields.io/badge/-vscode-1C1C1C?style=for-the-badge&logo=visual-studio-code)
+![VScode](https://img.shields.io/badge/-vscode-1C1C1C?style=for-the-badge&logo=visual-studio-code&logoColor=3cacf2)
 
 You can also see my portfolio <a href="https://nikita9950.github.io/liubimov-portfolio/">here</a>
 
