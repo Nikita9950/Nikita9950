@@ -1,7 +1,7 @@
-### Hi there 👋 I'm a frontend developer
+## Hi there 👋 I'm a frontend developer
 
 
-## TECH SKILLS
+### TECH SKILLS
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1C1C1C?style=for-the-badge&logo=javascript)
 ![Html](https://img.shields.io/badge/-html-1C1C1C?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-css-1C1C1C?style=for-the-badge&logo=css3&logoColor=264de4)
