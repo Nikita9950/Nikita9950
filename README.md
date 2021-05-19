@@ -13,3 +13,5 @@ You can also see my portfolio <a href="https://nikita9950.github.io/liubimov-por
 <a href="https://www.linkedin.com/in/nikita-liubimov-77b3441b2/">![linkedin](https://img.shields.io/badge/-liubimov-0a66c2?style=flat&logo=linkedin)</a>
 <a href="mailto:lubimov.nikita@gmail.com">![Gmail](https://img.shields.io/badge/-lubimov.nikita@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)</a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikita9950&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
