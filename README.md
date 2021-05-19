@@ -1,4 +1,4 @@
-### Hi there 👋 I'm frontend developer
+### Hi there 👋 I'm a frontend developer
 
 
 ### TECH SKILLS
